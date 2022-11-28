@@ -4,4 +4,6 @@ function setup() {
 
 function draw() {
   background(125);
+
+translate(0, 0, mousex);
 }
